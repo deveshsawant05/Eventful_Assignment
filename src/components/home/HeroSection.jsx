@@ -28,7 +28,7 @@ export function HeroSection() {
               <Button 
                 size="lg" 
                 variant="outline"
-                className="bg-white text-purple-900 hover:bg-gray-100 font-semibold text-lg px-8 py-6"
+                className="bg-white text-purple-900 dark:text-purple-400 hover:bg-gray-100 font-semibold text-lg px-8 py-6"
                 asChild
               >
                 <Link href="/artists">
@@ -39,7 +39,7 @@ export function HeroSection() {
               <Button 
                 size="lg" 
                 variant="outline" 
-                className="bg-white text-purple-900 hover:bg-gray-100 font-semibold text-lg px-8 py-6"
+                className="bg-white text-purple-900 dark:text-purple-400 hover:bg-gray-100 font-semibold text-lg px-8 py-6"
                 asChild
               >
                 <Link href="/onboard">
